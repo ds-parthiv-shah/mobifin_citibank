@@ -1,0 +1,9 @@
+INFO:root:start
+ERROR:root:Unable to open /data/CityBank/MobiId/SelfieScript/face_landmarks.dat
+INFO:root:start
+ERROR:root:Unable to open /data/CityBank/MobiId/SelfieScript/face_landmarks.dat
+INFO:root:start
+INFO:root:object create
+INFO:root:demo1.mp4
+INFO:root:temp.jpg
+ERROR:root:"exiftool" is not found, on path or as absolute path

@@ -1,0 +1,110 @@
+INFO:root:start
+ERROR:root:Unable to open data/CityBank/CitybankDocs/mobiid/livenessdetection/face_landmarks.dat
+INFO:root:start
+INFO:root:temp.jpg
+ERROR:root:"exiftool" is not found, on path or as absolute path
+INFO:root:start
+INFO:root:temp.jpg
+ERROR:root:"exiftool" is not found, on path or as absolute path
+INFO:root:start
+INFO:root:temp.jpg
+ERROR:root:"exiftool" is not found, on path or as absolute path
+INFO:root:start
+INFO:root:temp.jpg
+ERROR:root:"exiftool" is not found, on path or as absolute path
+INFO:root:start
+INFO:root:temp.jpg
+ERROR:root:"exiftool" is not found, on path or as absolute path
+INFO:root:start
+INFO:root:temp.jpg
+ERROR:root:Error retrieving Exiftool info.  Is your Exiftool version ('exiftool -ver') >= required version ('12.15')?
+INFO:root:start
+INFO:root:temp.jpg
+ERROR:root:Error retrieving Exiftool info.  Is your Exiftool version ('exiftool -ver') >= required version ('12.15')?
+INFO:root:start
+INFO:root:temp.jpg
+ERROR:root:'ExifTool' object has no attribute 'get_metadata'
+INFO:root:start
+INFO:root:temp.jpg
+ERROR:root:'ExifTool' object has no attribute 'get_metadata'
+INFO:root:start
+INFO:root:temp.jpg
+ERROR:root:name 'image_path' is not defined
+INFO:root:start
+INFO:root:temp.jpg
+INFO:root:True
+INFO:root:0.9475806451612904
+INFO:root:0.0
+INFO:root:end
+INFO:root:start
+INFO:root:temp.jpg
+INFO:root:True
+INFO:root:1.0
+INFO:root:1.0
+INFO:root:end
+INFO:root:start
+INFO:root:temp.jpg
+INFO:root:True
+INFO:root:1.0
+INFO:root:0.22388059701492538
+INFO:root:end
+INFO:root:start
+INFO:root:temp.jpg
+INFO:root:True
+INFO:root:1.0
+INFO:root:1.0
+INFO:root:end
+INFO:root:start
+INFO:root:temp.jpg
+INFO:root:True
+INFO:root:1.0
+INFO:root:1.0
+INFO:root:end
+INFO:root:start
+INFO:root:temp.jpg
+INFO:root:True
+INFO:root:1.0
+INFO:root:1.0
+INFO:root:end
+INFO:root:start
+INFO:root:temp.jpg
+INFO:root:True
+INFO:root:1.0
+INFO:root:1.0
+INFO:root:end
+INFO:root:start
+INFO:root:temp.jpg
+INFO:root:True
+INFO:root:1.0
+INFO:root:1.0
+INFO:root:end
+INFO:root:start
+INFO:root:temp.jpg
+INFO:root:True
+INFO:root:1.0
+INFO:root:0.22388059701492538
+INFO:root:end
+INFO:root:start
+INFO:root:temp.jpg
+INFO:root:True
+INFO:root:0.9475806451612904
+INFO:root:0.0
+INFO:root:end
+INFO:root:start
+INFO:root:temp.jpg
+INFO:root:True
+INFO:root:0.9475806451612904
+INFO:root:0.0
+INFO:root:end
+INFO:root:start
+INFO:root:temp.jpg
+INFO:root:True
+INFO:root:1.0
+INFO:root:0.22388059701492538
+INFO:root:end
+INFO:root:start
+INFO:root:temp.jpg
+INFO:root:True
+INFO:root:1.0
+INFO:root:1.0
+INFO:root:end
